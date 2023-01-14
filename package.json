@@ -1,0 +1,24 @@
+{
+  "name": "facturation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Is320-source/facturation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Is320-source/facturation/issues"
+  },
+  "homepage": "https://github.com/Is320-source/facturation#readme",
+  "dependencies": {
+    "next": "^13.1.2",
+    "react-dom": "^18.2.0"
+  }
+}
