@@ -3,7 +3,7 @@ import { useState } from 'react';
 function Page(){
     return (
         <div>
-            <h1>Pagina</h1>
+            <h1>Pagina Inicial</h1>
             <Counter />
         </div>
     )
